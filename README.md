@@ -1,2 +1,2 @@
 # Winamax_challenge_codingame
-Backtraking script to resolve the winamax challenge [CodinGame]
+Backtraking script to solve the winamax challenge [CodinGame]
